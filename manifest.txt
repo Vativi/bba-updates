@@ -1,3 +1,4 @@
-version=1.0.1
+version=2.0.0
 notes=Added Chapter 2
 Graphics/Pictures/Stomp_Soul_Card.webp
+Data/Scripts.rvdata2
