@@ -1,2 +1,3 @@
 version=1.0.1
 Added Chapter 2
+Graphics/Pictures/Stomp_Soul_Card.webp
