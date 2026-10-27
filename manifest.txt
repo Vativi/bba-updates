@@ -1,5 +1,6 @@
-version=2.0.2
+version=2.0.3
 notes=Added Chapter 2 (fixed)
+[1.0.1]
 Graphics/Pictures/Stomp_Soul_Card.webp
 Audio/BGM/arrival.mp3
 Audio/BGM/casino_placeholder.mp3
@@ -8,8 +9,10 @@ Audio/BGM/ff7_boss1.mp3
 Audio/BGM/ff7_cait_sith.mp3
 Audio/BGM/ff7_mark_of_traitor.mp3
 Audio/BGM/ff7_oven_placeholder.mp3
+[1.0.2]
 Audio/BGM/horror_placeholder.mp3
 Audio/BGM/man.mp3
+[1.0.3]
 Audio/BGM/usa_placeholder.mp3
 Data/Map001.rvdata2
 Data/Map002.rvdata2
