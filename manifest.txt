@@ -1,4 +1,4 @@
-version=2.0.4
+version=2.0.5
 notes=Added Chapter 2 (fixed)
 [1.0.1]
 Graphics/Pictures/Stomp_Soul_Card.webp
@@ -84,3 +84,5 @@ Data/Map069.rvdata2
 Data/Map070.rvdata2
 Data/Map071.rvdata2
 Data/Map072.rvdata2
+[2.0.5]
+Graphics/Pictures/8fd4d01609d6cfa5bc2f1663483df047719759b9.png
